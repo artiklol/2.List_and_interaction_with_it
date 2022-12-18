@@ -16,12 +16,11 @@ struct List {
     static func createList() -> [List] {
         var list: [List] = []
         let sizeList = 999
-
+        var indexIcon = 0
+        
         let icon = DataManager.shared.icons
         let title = DataManager.shared.title
         let description = DataManager.shared.description
-        
-        var indexIcon = 0
         
         for index in 0...sizeList {
             let element = List(icon: icon[indexIcon],
@@ -35,7 +34,7 @@ struct List {
                 indexIcon = 0
             }   
         }
-        
         return list
     }
+    
 }

@@ -7,7 +7,7 @@
 
 import UIKit
 
-class DataManager {
+final class DataManager {
     
     static let shared = DataManager()
     
@@ -19,4 +19,5 @@ class DataManager {
     let title = "Title "
     
     let description = "Description "
+    
 }
