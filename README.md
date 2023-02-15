@@ -1,6 +1,6 @@
-Скриншоты итогового приложения:
+Скриншоты моего приложения:
 ![alt text](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1ywwTeM6zbxwiMfIdu2r62nwfxHW--VcL)
-Задание:
+Какое было задание:
 
 **Создать новое приложение, которое состоит из двух экранов.**
 
